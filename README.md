@@ -19,5 +19,5 @@ Feel free to leave me a comment via Twitter, Medium or here on GitHub.
 * [Lass dich nicht von regelmäßigen Sonderausgaben überraschen!](https://medium.com/@helloludger/lass-dich-nicht-von-regelmäßigen-sonderausgaben-überraschen-453fa214a4a2)
 
 ###2016 Update
-* [MyFreedomAccount — Überarbeitet für 2016](https://medium.com/@helloludger/myfreedomaccount-%C3%BCberarbeitet-f%C3%BCr-2016-9ccf02644f5c?source=your-stories)
-* [MyFreedomAccount — Revised for 2016](https://medium.com/@helloludger/myfreedomaccount-revised-for-2016-c6598a00cf2d?source=your-stories)
+* [MyFreedomAccount — Überarbeitet für 2016](https://medium.com/@helloludger/myfreedomaccount-%C3%BCberarbeitet-f%C3%BCr-2016-9ccf02644f5c)
+* [MyFreedomAccount — Revised for 2016](https://medium.com/@helloludger/myfreedomaccount-revised-for-2016-c6598a00cf2d)
