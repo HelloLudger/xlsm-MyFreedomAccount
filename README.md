@@ -3,6 +3,7 @@ _Excel spreasheet to manage your Freedom Account._
 
 ## What’s new?
 Just released the 2016 edition with improved design, better VBA scripts and a new version completely without any VBA, for mobile and web Excel.
+Removed the version of 2015. But you can still find it under the tag "2015-final"
 
 ##Compatibility?
 Tested with Microsoft Excel 2010. Should be working with all newer versions and probably also with most older versions, since it doesn’t use many fancy things.
@@ -18,5 +19,5 @@ Feel free to leave me a comment via Twitter, Medium or here on GitHub.
 * [Lass dich nicht von regelmäßigen Sonderausgaben überraschen!](https://medium.com/@helloludger/lass-dich-nicht-von-regelmäßigen-sonderausgaben-überraschen-453fa214a4a2)
 
 ###2016 Update
-* [MyFreedomAccount — Überarbeitet für 2016 (in Arbeit)](https://medium.com/@helloludger)
-* [MyFreedomAccount — Überarbeitet for 2016 (cooming soon)](https://medium.com/@helloludger)
+* [MyFreedomAccount — Überarbeitet für 2016](https://medium.com/@helloludger/myfreedomaccount-%C3%BCberarbeitet-f%C3%BCr-2016-9ccf02644f5c?source=your-stories)
+* [MyFreedomAccount — Revised for 2016](https://medium.com/@helloludger/myfreedomaccount-revised-for-2016-c6598a00cf2d?source=your-stories)
